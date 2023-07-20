@@ -1,0 +1,13 @@
+.button{
+    background: rgb(68, 40, 40);
+    border-radius: 6px;
+    height: 100%;
+    width: 65px;
+    padding: 0px 10px 0px 10px;
+    margin: 0 2px 0 2px;
+    cursor: pointer;
+    vertical-align: middle;
+}
+.button:hover{
+    background: rgb(48, 28, 28);
+}
